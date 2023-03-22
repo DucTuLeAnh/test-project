@@ -2,6 +2,7 @@
 test project in node.js/TypeScript
 
 ## how to run
+This project was built with Node.js version v18.14.2 (npm v9.5.0).
 Run the following commands:
 ```
 npm i
